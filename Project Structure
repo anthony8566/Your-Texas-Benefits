@@ -1,0 +1,22 @@
+The following is the structure of the "Your Texas Benefits" project:
+├── public
+│ ├── index.html
+│ ├── manifest.json
+├── src
+│ ├── components
+│ │ ├── ExpenseForm.css
+│ │ ├── ExpenseForm.js
+│ │ ├── ExpenseList.css
+│ │ ├── ExpenseList.js
+│ │ ├── Header.css
+│ │ ├── Header.js
+│ │ ├── Receipt.css
+│ │ ├── Receipt.js
+│ ├── App.css
+│ ├── App.js
+│ ├── App.test.js
+│ ├── index.css
+│ ├── index.js
+├── package.json
+├── README.md
+├── CONTRIBUTING.md
