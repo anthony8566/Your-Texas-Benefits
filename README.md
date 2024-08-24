@@ -22,7 +22,9 @@ With real-time updates and personalized notifications, this tool aims to make th
 - **Email:** anthony856reyes@outlook.com
 - **Website:** Your Texas Benefits
 
-Anthony Reyes is a seasoned software developer with expertise in web development and user interface design. He has a passion for building applications that make a real difference in people's lives. With a strong background in full-stack development and a keen eye for detail, Anthony is dedicated to delivering top-notch solutions. When he's not coding, he's helping other developers hone their skills.
+Anthony Reyes is a seasoned software developer with expertise in web development and user interface design. He has a passion for building applications that make a real difference in people's lives. 
+
+With a strong background in full-stack development and a keen eye for detail, Anthony is dedicated to delivering top-notch solutions. When he's not coding, he's helping other developers hone their skills.
 
 ## Getting Started
 To get started with the "Your Texas Benefits" project, follow the steps below:
@@ -59,4 +61,6 @@ Refer to the CONTRIBUTING.md file for detailed guidelines.
 
 ## Getting Help
 
-If you have any questions or need help with the project, feel free to reach out to Anthony Reyes at anthony856reyes@outlook.com. You can also open an issue in the repository for support.
+If you have any questions or need help with the project, feel free to reach out to Anthony Reyes at anthony856reyes@outlook.com. 
+
+You can also open an issue in the repository for support.
