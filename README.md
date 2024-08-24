@@ -1,5 +1,7 @@
 # Your-Texas-Benefits
-Your Texas Benefits" is a user-friendly web application designed to help residents of Texas manage and track their benefits. The application provides an intuitive interface for users to apply for benefits, track their application status, and manage their benefits all in one place. With real-time updates and personalized notifications, this tool aims to make the process of accessing benefits seamless and efficient. Whether you need assistance with food, healthcare, or other services, "Your Texas Benefits" ensures that help is just a few clicks away.
+Your Texas Benefits" is a user-friendly web application designed to help residents of Texas manage and track their benefits. The application provides an intuitive interface for users to apply for benefits, track their application status, and manage their benefits all in one place. 
+
+With real-time updates and personalized notifications, this tool aims to make the process of accessing benefits seamless and efficient. Whether you need assistance with food, healthcare, or other services, "Your Texas Benefits" ensures that help is just a few clicks away.
 
 ## Features
 - Easy application process for various benefits.
